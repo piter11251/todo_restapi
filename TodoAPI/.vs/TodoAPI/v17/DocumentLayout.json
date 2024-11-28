@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|c:\\users\\admin\\documents\\github\\todo_restapi\\todoapi\\todoapi\\dto\\mapper\\todomapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\dto\\mapper\\todomapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|c:\\users\\admin\\documents\\github\\todo_restapi\\todoapi\\todoapi\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|c:\\users\\admin\\documents\\github\\todo_restapi\\todoapi\\todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|c:\\users\\admin\\documents\\github\\todo_restapi\\todoapi\\todoapi\\dto\\todocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\dto\\todocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|c:\\users\\admin\\documents\\github\\todo_restapi\\todoapi\\todoapi\\services\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\services\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|c:\\users\\admin\\documents\\github\\todo_restapi\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|c:\\users\\admin\\documents\\github\\todo_restapi\\todoapi\\todoapi\\dto\\validators\\todoupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\dto\\validators\\todoupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|c:\\users\\admin\\documents\\github\\todo_restapi\\todoapi\\todoapi\\dto\\validators\\todocreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\dto\\validators\\todocreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|c:\\users\\admin\\documents\\github\\todo_restapi\\todoapi\\todoapi\\dto\\todoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\dto\\todoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|c:\\users\\admin\\documents\\github\\todo_restapi\\todoapi\\todoapi\\entities\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\entities\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Migrations\\20241128165348_Init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodoAPI\\Migrations\\20241128165348_Init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Migrations\\20241128165230_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodoAPI\\Migrations\\20241128165230_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|c:\\users\\admin\\documents\\github\\todo_restapi\\todoapi\\todoapi\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B909BEAB-90C3-4A4D-AF61-747525154388}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoMapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Dto\\Mapper\\TodoMapProfile.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Dto\\Mapper\\TodoMapProfile.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Dto\\Mapper\\TodoMapProfile.cs",
+              "RelativeToolTip": "TodoAPI\\Dto\\Mapper\\TodoMapProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:20:50.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoCreateValidator.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Dto\\Validators\\TodoCreateValidator.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Dto\\Validators\\TodoCreateValidator.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Dto\\Validators\\TodoCreateValidator.cs",
+              "RelativeToolTip": "TodoAPI\\Dto\\Validators\\TodoCreateValidator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:57:12.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoUpdateValidator.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Dto\\Validators\\TodoUpdateValidator.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Dto\\Validators\\TodoUpdateValidator.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Dto\\Validators\\TodoUpdateValidator.cs",
+              "RelativeToolTip": "TodoAPI\\Dto\\Validators\\TodoUpdateValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:57:09.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Dto\\TodoUpdateDto.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Dto\\TodoUpdateDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Dto\\TodoUpdateDto.cs",
+              "RelativeToolTip": "TodoAPI\\Dto\\TodoUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:55:22.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Services\\TodoService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Services\\TodoService.cs",
+              "RelativeToolTip": "TodoAPI\\Services\\TodoService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:01:01.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Services\\Interfaces\\ITodoService.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Services\\Interfaces\\ITodoService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Services\\Interfaces\\ITodoService.cs",
+              "RelativeToolTip": "TodoAPI\\Services\\Interfaces\\ITodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:00:45.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Dto\\TodoCreateDto.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Dto\\TodoCreateDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Dto\\TodoCreateDto.cs",
+              "RelativeToolTip": "TodoAPI\\Dto\\TodoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:58:40.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoAPI\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwCwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:54:36.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241128165348_Init2.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Migrations\\20241128165348_Init2.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Migrations\\20241128165348_Init2.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Migrations\\20241128165348_Init2.cs",
+              "RelativeToolTip": "TodoAPI\\Migrations\\20241128165348_Init2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:53:49.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241128165230_Init.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Migrations\\20241128165230_Init.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Migrations\\20241128165230_Init.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Migrations\\20241128165230_Init.cs",
+              "RelativeToolTip": "TodoAPI\\Migrations\\20241128165230_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:52:30.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Program.cs",
+              "RelativeToolTip": "TodoAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:51:03.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Data\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Data\\TodoDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Data\\TodoDbContext.cs",
+              "RelativeToolTip": "TodoAPI\\Data\\TodoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:28:35.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Entities\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Entities\\Todo.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\todo_restapi\\TodoAPI\\TodoAPI\\Entities\\Todo.cs",
+              "RelativeToolTip": "TodoAPI\\Entities\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:15:31.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
