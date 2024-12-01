@@ -114,3 +114,10 @@ C:\Users\admin\Documents\GitHub\todo_restapi\TodoAPI\TodoAPI\bin\Debug\net8.0\Fl
 C:\Users\admin\Documents\GitHub\todo_restapi\TodoAPI\TodoAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\admin\Documents\GitHub\todo_restapi\TodoAPI\TodoAPI\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\admin\Documents\GitHub\todo_restapi\TodoAPI\TodoAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\admin\Documents\GitHub\todo_restapi\TodoAPI\TodoAPI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\admin\Documents\GitHub\todo_restapi\TodoAPI\TodoAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\admin\Documents\GitHub\todo_restapi\TodoAPI\TodoAPI\bin\Debug\net8.0\Moq.dll
+C:\Users\admin\Documents\GitHub\todo_restapi\TodoAPI\TodoAPI\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\admin\Documents\GitHub\todo_restapi\TodoAPI\TodoAPI\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\admin\Documents\GitHub\todo_restapi\TodoAPI\TodoAPI\bin\Debug\net8.0\xunit.core.dll
+C:\Users\admin\Documents\GitHub\todo_restapi\TodoAPI\TodoAPI\bin\Debug\net8.0\xunit.execution.dotnet.dll

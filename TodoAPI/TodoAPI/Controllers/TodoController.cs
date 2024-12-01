@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using TodoAPI.Data;
 using TodoAPI.Dto;
+using TodoAPI.Entities.Enums;
 using TodoAPI.Services.Interfaces;
 
 namespace TodoAPI.Controllers
@@ -17,12 +19,25 @@ namespace TodoAPI.Controllers
             _todoService = todoService;
         }
 
+        // Endpoint for incoming todos(today, this week, this month)
+
+        [HttpGet("incoming")]
+        public async Task<IActionResult> GetIncomingTodo()
+        {
+            var todoList = await _todoService.IncomingTodo();
+            return Ok(todoList);
+        }
+
+        // Get todo by id
+
         [HttpGet("{id}")] 
         public async Task<IActionResult> GetSpecificTodo([FromRoute] int id)
         {
             var todo = await _todoService.GetTodo(id);
             return Ok(todo);
         }
+
+        //Get All Todos
 
         [HttpGet]
         public async Task<IActionResult> GetAllTodos()
@@ -31,6 +46,7 @@ namespace TodoAPI.Controllers
             return Ok(todos);
         }
 
+        // Create todo with TodoCreateDto
 
         [HttpPost]
         public async Task<IActionResult> CreateTodo([FromBody] TodoCreateDto dto)
@@ -39,6 +55,8 @@ namespace TodoAPI.Controllers
             return Ok("Created successful");
         }
 
+        // Update specified todo with TodoUpdateDto
+
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateTodo([FromBody] TodoUpdateDto dto, [FromRoute] int id)
         {
@@ -46,11 +64,31 @@ namespace TodoAPI.Controllers
             return Ok();
         }
 
+        // Delete todo with specified id
+
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteTodo([FromRoute] int id)
         {
             await _todoService.DeleteTodo(id);
             return NoContent();
-        } 
+        }
+
+        // Change todo status of specified id
+
+        [HttpPatch("{id}/status")]
+        public async Task<IActionResult> MarkTodoAsDone([FromQuery] string todoStatus, [FromRoute] int id)
+        {
+            await _todoService.MakeTodoAsDone(id, todoStatus);
+            return Ok();
+        }
+
+        // Set todo percent completed of specified id
+
+        [HttpPatch("{id}")]
+        public async Task<IActionResult> SetPercentCompleted([FromQuery] int percentCompleted, [FromRoute] int id)
+        {
+            await _todoService.SetPercentCompleted(percentCompleted, id);
+            return Ok();
+        }
     }
 }

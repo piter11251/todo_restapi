@@ -40,6 +40,9 @@ namespace TodoAPI.Migrations
                     b.Property<int>("PercentComplete")
                         .HasColumnType("int");
 
+                    b.Property<int>("Status")
+                        .HasColumnType("int");
+
                     b.Property<string>("Title")
                         .IsRequired()
                         .HasColumnType("longtext");

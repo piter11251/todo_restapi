@@ -77,5 +77,57 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoAPI.Controllers.TodoController",
+    "Method": "SetPercentCompleted",
+    "RelativePath": "api/todo/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "percentCompleted",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoAPI.Controllers.TodoController",
+    "Method": "MarkTodoAsDone",
+    "RelativePath": "api/todo/{id}/status",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "todoStatus",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoAPI.Controllers.TodoController",
+    "Method": "GetIncomingTodo",
+    "RelativePath": "api/todo/incoming",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

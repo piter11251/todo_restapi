@@ -10,6 +10,7 @@ namespace TodoAPI.Dto.Mapper
             CreateMap<Todo, TodoCreateDto>()
                 .ForMember(dest => dest.Percentage, opt => opt.MapFrom(src => src.PercentComplete));
 
+
         }
     }
 }

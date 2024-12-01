@@ -1,5 +1,6 @@
 ﻿using TodoAPI.Dto;
 using TodoAPI.Dto.Validators;
+using TodoAPI.Entities;
 
 namespace TodoAPI.Services.Interfaces
 {
@@ -10,5 +11,8 @@ namespace TodoAPI.Services.Interfaces
         Task DeleteTodo(int id);
         Task<List<TodoCreateDto>> GetAllTodos();
         Task<TodoCreateDto> GetTodo(int id);
+        Task<TodoListsDto> IncomingTodo();
+        Task MakeTodoAsDone(int id, string status);
+        Task SetPercentCompleted(int percentCompleted, int id);
     }
 }
